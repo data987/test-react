@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');
+
+.ubi-header {
+  background-color: #1D88C0;
+  padding: 2rem 0;
+  margin-bottom: 3rem;
+  width: 100%;
+}
+
+.ubi-header h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+}
+
+.ubi-header h1 {
+  color: white;
+  font-size: 1.4rem;
+  letter-spacing: .5rem;
+  margin: 0;
+}
+
+.table-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
