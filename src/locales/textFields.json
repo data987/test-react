@@ -1,0 +1,13 @@
+{
+  "tableTitles": {
+    "department"  : "DEPARTAMENTO",
+    "province"  : "PROVINCIA",
+    "district": "DISTRITO"
+  },
+  "tableFields": {
+    "code": "Código",
+    "name": "Nombre",
+    "parentCode": "Código Padre",
+    "parentDescription": "Descripción Padre"
+  }
+}
